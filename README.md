@@ -1,4 +1,4 @@
 - @happpy24 -
-> Student Sint-Maartenscollege
+> IT Student at Univercity of Applied Sciences Utrecht
 > V. Speijer
-> https://happpy.xyz/
+> website in dev.
