@@ -2,6 +2,7 @@
 or (vivi, h_24, Happy_24, happpy24 - i got alot of nicknames), a transfem computer science student who specializes in Game Development!
 
 I'm currently working on my personal site, please check out my [portfolio](https://h24.s-ul.eu/O2yAD5va) in the meantime.
+This README page is also still work in progress as I am very lazy, but I update my next-up (semi) consistently
 
 ![happpy24's Stats](https://github-readme-stats.vercel.app/api?username=happpy24&theme=vue&show_icons=true&hide_border=false&count_private=true)
 ![happpy24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=happpy24&theme=vue&show_icons=true&hide_border=false&layout=compact)
@@ -18,5 +19,3 @@ I'm currently working on my personal site, please check out my [portfolio](https
 ## Got a cool project or idea?
 Reach out to me!
 Please contact me on discord `@h_24` or bsky `@vivistellar.com`
-
-
