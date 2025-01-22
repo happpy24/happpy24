@@ -15,8 +15,6 @@ I'm currently working on my personal site, please check out my [portfolio](https
 - Designs for next iterations for National Dutch Championship 2025 (NDC), Cavoes osu! event 2025 (COE), 5 Digit World Cup 2025 (5WC), all of which are osu! related. 
 - I'm currently working on a Party Game like Mario party/wii party island. The idea is that you can use your phone as controller (which we got working already). For this project I am project lead.
 
-![miku-hi](https://github.com/user-attachments/assets/177e5ed0-a338-4a20-a3d7-2ac217aa63b0)
-
 ## Got a cool project or idea?
 Reach out to me!
 Please contact me on discord `@h_24` or bsky `@vivistellar.com`
